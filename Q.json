@@ -1,5 +1,6 @@
 {
   "squadName" : "Calligraphy appreciation",
+  "The origin of Chinese calligraphy":"Five thousand years ago",
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
@@ -15,7 +16,7 @@
     },
     {
      "name" : "Beijing calligraphy exhibition",
-      "data": "2019.05.12",
+      "date": "2019.05.12",
       "Sponsor": "Beijing calligraphy assocation",
       "powers" : [
         "grass writing",
@@ -30,8 +31,7 @@
       "powers" : [
         "regular",
         "grass writing",
-        "seal character",
-         "running script"
+        "seal character"
       ]
     }
   ]
