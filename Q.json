@@ -5,8 +5,8 @@
   "members" : [
     {
       "name" : "Chengdu calligraphy exhibition",
-      "data" : 2019.02.03,
-      "Sponsor":Chengdu calligraphy assocation,
+      "date" : "2019.02.03",
+      "Sponsor":"Chengdu calligraphy assocation",
       "powers" : [
         "regular script",
         "running hand",
