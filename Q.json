@@ -1,0 +1,38 @@
+{
+  "squadName" : "Calligraphy appreciation",
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Chengdu calligraphy exhibition",
+      "data" : 2019.02.03,
+      "Sponsor":Chengdu calligraphy assocation,
+      "powers" : [
+        "regular script",
+        "running hand",
+        "lishu"
+      ]
+    },
+    {
+     "name" : "Beijing calligraphy exhibition",
+      "data": "2019.05.12",
+      "Sponsor": "Beijing calligraphy assocation",
+      "powers" : [
+        "grass writing",
+        "running script",
+        "xiaozhuan"
+      ]
+    },
+    {
+      "name" : "Hong Kong calligraphy exhibition",
+      "data" : "2019.06.15",
+     "Sponsor":"Hong Kong calligraphy assocation",
+      "powers" : [
+        "regular",
+        "grass writing",
+        "seal character",
+         "running script"
+      ]
+    }
+  ]
+}
